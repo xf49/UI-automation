@@ -5,6 +5,7 @@ Hello ! this is a simple Selenium-based UI automation project whose current purp
 technoloy stack: Java Selenium，Maven，IntelliJ
 
 dependencies:
+
         <dependency>
             <groupId>org.seleniumhq.selenium</groupId>
             <artifactId>selenium-java</artifactId>
@@ -12,6 +13,7 @@ dependencies:
         </dependency>
 
 code structure:
+
 ![1651682493(1)](https://user-images.githubusercontent.com/24584111/166729612-20becdc0-b7fc-4482-afa7-1fb0328df27a.png)
 
 steps:
